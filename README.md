@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Eduardo
 
-<!--
-**Eduardodev065/Eduardodev065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação, criando projetos para aprender e evoluir.
 
-Here are some ideas to get you started:
+## 🚀 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 RoboAVA-Luna
+Aplicativo em Python com interface gráfica e integração com a API da OpenAI.
+
+### 🎮 Below — As Profundezas Vazias
+Jogo de exploração de masmorra com combates por turnos.
+
+## 🛠️ Tecnologias
+
+Python · java · sql · IA
+
+Estou sempre aprendendo e trabalhando em novos projetos.
