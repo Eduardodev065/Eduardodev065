@@ -12,6 +12,6 @@ Jogo de exploração de masmorra com combates por turnos.
 
 ## 🛠️ Tecnologias
 
-![Tecnologias mais usadas no GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardodev065&layout=compact&langs_count=8&custom_title=Tecnologias&theme=dark)
+![Tecnologias estudadas](./tecnologias.svg)
 
 Estou sempre aprendendo e trabalhando em novos projetos.
